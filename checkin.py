@@ -4,8 +4,8 @@ from urllib import parse
 s = requests.Session()
 ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/76.0"
 
-username = ""
-password = ""
+username = "18270758299"
+password = "TYwp@2022"
 
 if username == "" or password == "":
     username = input("账号：")
